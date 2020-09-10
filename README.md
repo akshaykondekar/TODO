@@ -1,5 +1,5 @@
 # TODO
-To do project with Add, Update, Delete, SortBy and Search Functionality using MVVM Architecture, Room Databse, Navigation Component.
+To do project with Add, Update, Delete, SortBy and Search Functionality using MVVM Architecture, Room Database, Navigation Component and Material UI.
 
 
 <h2>Add ToDo</h2>
